@@ -8,6 +8,10 @@ https://dev.to/srijith_un/how-to-learn-react-native---for-androidios-devs-2mj
 
 ## Resursi
 
+Schwarzmuller ima odlicne tutorijale:
+
+https://www.udemy.com/react-native-the-practical-guide/learn/v4/content
+
 https://www.udemy.com/the-complete-react-native-and-redux-course/
 
 https://hackr.io/tutorials/learn-react-native
