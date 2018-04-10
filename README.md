@@ -1,8 +1,12 @@
 # Učimo React Native
 
-This tutorial is designed for JavaScript and React developers who aspire to learn mobile building skills.  Even if you do not have previous experience with React, you should be able to follow it. 
+**Učenje React Native tehnologije je sjajna investicija za JS programere, jer uz relativno malo dodatnog napora mogu ovladati razvojem Android i iOS aplikacija.**
+
+React Native je biblioteka koja nam omogućava da pravimo prirodne (*native*) mobilne aplikacije za Android i iOS, pomoću web tehnologija. React native se oslanja na React.js, jednu od najtraženijih tehnologija na svetu. React Native je sve traženiji jer preposlovljuje troškove razvoja. Umesto da razvijamo zasebno aplikacije za Android i iOS, dovoljno je razvijati aplikaciju u React Native.
 
 ## Preduslovi
+
+This tutorial is designed for JavaScript and React developers who aspire to learn mobile building skills.  Even if you do not have previous experience with React, you should be able to follow it. 
 
 https://dev.to/srijith_un/how-to-learn-react-native---for-androidios-devs-2mj
 
