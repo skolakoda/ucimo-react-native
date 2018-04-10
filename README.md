@@ -1,8 +1,8 @@
 # Učimo React Native
 
-**Učenje React Native tehnologije je sjajna investicija za JS developere, jer uz relativno malo dodatnog napora mogu ovladati dragocenim veštinama razvoja Android i iOS aplikacija.**
+React Native je biblioteka koja nam omogućava da pravimo *native* mobilne aplikacije za Android i iOS, pomoću web tehnologija. React Native je [sve traženija](https://www.indeed.com/jobtrends/q-react-native.html) tehnologija, jer firmama prepolovljuje troškove razvoja. Umesto dosadašnjeg pravljenja dve zasebne aplikacije za Android i iOS, sada je moguće razvijati aplikaciju iz iste kodne baze.
 
-React Native je biblioteka koja nam omogućava da pravimo *native* mobilne aplikacije za Android i iOS, pomoću web tehnologija. React Native je [sve traženija](https://www.indeed.com/jobtrends/q-react-native.html) tehnologija, jer firmama prepolovljuje troškove razvoja. Umesto dosadašnjeg pravljenja dve zasebne aplikacije za Android i iOS, sada je moguće razvijati aplikaciju samo u React Native.
+Učenje React Native tehnologije je posebno dobra investicija za web developere, jer uz relativno malo dodatnog napora mogu ovladati dragocenim veštinama razvoja Android i iOS aplikacija.
 
 ## Preduslovi
 
