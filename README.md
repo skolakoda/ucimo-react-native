@@ -1,6 +1,6 @@
 # Učimo React Native
 
-React Native je biblioteka koja omogućava razvoj mobilnih aplikacija za Android i iOS, kao i univerzalnih Windows aplikacija, pomoću standardnih web tehnologija kao što su JS i CSS. 
+**React Native** je biblioteka koja omogućava razvoj mobilnih aplikacija za Android i iOS, kao i univerzalnih Windows aplikacija, pomoću standardnih web tehnologija kao što su JS i CSS. 
 
 React Native je objavio Facebook 2015. godine, i od tada potražnja za ovom tehnologijom [sve više raste](https://www.indeed.com/jobtrends/q-react-native.html), jer firmama prepolovljuje troškove razvoja. Umesto dosadašnjeg razvoja dve zasebne aplikacije za Android i iOS, sa dva odvojena tima developera, sada je dovoljno koristiti React Native.
 
