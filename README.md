@@ -1,3 +1,5 @@
+![](https://habiletechnologies.com/wp-content/uploads/2017/02/reactnative-1110x550.jpg)
+
 # Učimo React Native
 
 **React Native** je biblioteka koja omogućava razvoj mobilnih aplikacija za Android i iOS, kao i univerzalnih Windows aplikacija, pomoću standardnih web tehnologija kao što su JS i CSS. 
