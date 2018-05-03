@@ -2,7 +2,7 @@
 
 # Učimo React Native
 
-**React Native** je biblioteka koja omogućava razvoj mobilnih aplikacija za Android i iOS, kao i univerzalnih Windows aplikacija, pomoću standardnih web tehnologija kao što su JS i CSS. 
+**React Native** je biblioteka koja omogućava razvoj mobilnih aplikacija za Android i iOS, kao i univerzalnih Windows aplikacija, pomoću standardnih web tehnologija kao što su JS i CSS.
 
 React Native je objavio Facebook 2015. godine, i od tada potražnja za ovom tehnologijom [sve više raste](https://www.indeed.com/jobtrends/q-react-native.html), jer firmama prepolovljuje troškove razvoja. Umesto dosadašnjeg razvoja dve zasebne aplikacije za Android i iOS, sa dva odvojena tima developera, sada je dovoljno koristiti React Native.
 
@@ -30,7 +30,35 @@ Za uspešno praćenje React Native kursa potrebno je da poznajete:
 
 - Instaliraj node.js i `create-react-native-app`
 
-### Osnovni elementi
+### Osnovne komponente
 
 - `View`, element opšte namene, kao `div` u HTML-u ([docs](http://www.reactnativeexpress.com/view))
-- Osnovni stilovi elemenata
+- `Text`
+- `Image`
+
+### Osnovni stilovi
+
+- boje i veličine
+- fleksibilni prikaz (flex layout)
+
+### Liste
+
+- `ScrollView`
+- `ListView`
+
+### Biblioteke komponenti
+
+- React Native Elements
+- NativeBase
+- Shoutem UI
+
+### Upravljanje stanjem aplikacije
+
+- Stanje komponenti (`state`)
+- Redux biblioteka
+
+### Skladištenje podataka
+
+- ugrađeni `AsyncStorage` API
+- A SQLite / native database wrapper
+- Realm library database
