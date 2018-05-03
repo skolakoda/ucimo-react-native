@@ -21,9 +21,3 @@ Za uspešno praćenje React Native kursa potrebno je da poznajete:
 - [React Native Express](http://www.reactnativeexpress.com/)
 - [Official documentation](http://facebook.github.io/react-native/docs/getting-started.html)
 - [React Native School (videos)](https://www.youtube.com/playlist?list=PLjVnDc2oPyOGBOb75V8CpeSr9Gww8pZdL)
-
-## Za apsolutne početnike
-
-https://www.udemy.com/react-native-for-absolute-beginners/
-
-https://www.quora.com/How-can-I-learn-React-Native-for-free-as-a-beginner
