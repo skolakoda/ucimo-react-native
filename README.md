@@ -32,4 +32,4 @@ Za uspešno praćenje React Native kursa potrebno je da poznajete:
 
 ### Osnovni elementi
 
-- `View`, element opšte namene, kao `div` u HTML-u
+- `View`, element opšte namene, kao `div` u HTML-u ([docs](http://www.reactnativeexpress.com/view))
