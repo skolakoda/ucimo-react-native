@@ -148,3 +148,41 @@
 - Getting Data from the Server 
 - Fixing an Error 
 - Time to Practice - Http 
+
+### Authentication in React Native Apps
+
+- How Authentication Works in React Native Apps 
+- Enabling Firebase Authentication 
+- Signing Users Up 
+- Using the Authentication Result (Response) 
+- Supporting Signup and Login 
+- Adding User Login 
+- Protecting Routes on Firebase 
+- Storing the Auth Token in Redux 
+- Using the Auth Token 
+- Fetching the Token in a Re-Usable Way 
+- Protecting the Firebase Cloudfunction 
+- Adding Places (Authenticated) 
+- Storing the Token in AsyncStorage 
+- Adding an Auto-Signin Functionality 
+- Managing the Token Expiration 
+- Clearing the Auth Storage (AsyncStorage) 
+- Refreshing the Token 
+- Adding User Logout 
+- Refreshing the Token Without App Reloads 
+
+### Polishing the App
+
+- Identifying "Improvement Potential" 
+- Shrinking Image Sizes 
+- Loading Places All The Time! 
+- Improving Http Error Handling 
+- Cleaning Stored Images (on Firebase) 
+
+### Publishing the App
+
+- Adding Launcher Icons 
+- Adding a Splash Screen 
+- Configuring & Building the App 
+- Publishing to Google Play Store (Android) 
+- Publishing to the App Store (iOS) 
