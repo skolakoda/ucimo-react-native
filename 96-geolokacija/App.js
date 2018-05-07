@@ -1,40 +1,36 @@
-import React, { Component } from 'react';
-import { View, Text } from 'react-native';
+import React, { Component } from 'react'
+import { View, Text } from 'react-native'
 
-class GeolocationExample extends Component {
+class Geolocation extends Component {
   constructor(props) {
-    super(props);
-
+    super(props)
     this.state = {
       latitude: null,
       longitude: null,
       error: null,
-    };
+    }
   }
 
   componentDidMount() {
-    navigator.geolocation.getCurrentPosition(
-      (position) => {
-        this.setState({
-          latitude: position.coords.latitude,
-          longitude: position.coords.longitude,
-          error: null,
-        });
-      },
-      (error) => this.setState({ error: error.message }),
-      { enableHighAccuracy: true, timeout: 20000, maximumAge: 1000 },
-    );
+    navigator.geolocation.getCurrentPosition(position =>
+      this.setState({
+        latitude: position.coords.latitude,
+        longitude: position.coords.longitude,
+        error: null,
+      }), error => this.setState({ error: error.message })
+    )
   }
 
   render() {
+    const {latitude, longitude, error} = this.state
     return (
-      <View style={{ flexGrow: 1, alignItems: 'center', justifyContent: 'center' }}>
-        <Text>Latitude: {this.state.latitude}</Text>
-        <Text>Longitude: {this.state.longitude}</Text>
-        {this.state.error ? <Text>Error: {this.state.error}</Text> : null}
+      <View style={{ flexGrow: 1, alignItems: 'center', 'justifyContent': 'center' }}>
+        {latitude && <Text>Latitude: {latitude}</Text>}
+        {longitude && <Text>Longitude: {longitude}</Text>}
+        {error && <Text>Error: {error}</Text>}
       </View>
-    );
+    )
   }
 }
 
-export default GeolocationExample;
+export default Geolocation
