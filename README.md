@@ -18,12 +18,6 @@ Za uspešno praćenje React Native kursa potrebno je da poznajete:
 
 Čak iako niste imali prethodnog iskustva sa React-om, trebalo bi da možete da pratite. Kao dodatni resurs preporučujemo Schwarzmullerov kurs [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/learn/v4/content).
 
-## Resursi
-
-- [React Native Express](http://www.reactnativeexpress.com/)
-- [Official documentation](http://facebook.github.io/react-native/docs/getting-started.html)
-- [React Native School (videos)](https://www.youtube.com/playlist?list=PLjVnDc2oPyOGBOb75V8CpeSr9Gww8pZdL)
-
 ## Program kursa
 
 ### Instalacija
@@ -62,3 +56,9 @@ Za uspešno praćenje React Native kursa potrebno je da poznajete:
 - ugrađeni `AsyncStorage` API
 - A SQLite / native database wrapper
 - Realm library database
+
+## Linkovi
+
+- [React Native Express](http://www.reactnativeexpress.com/)
+- [Official documentation](http://facebook.github.io/react-native/docs/getting-started.html)
+- [React Native School (videos)](https://www.youtube.com/playlist?list=PLjVnDc2oPyOGBOb75V8CpeSr9Gww8pZdL)
