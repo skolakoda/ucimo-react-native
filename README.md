@@ -12,7 +12,7 @@ Za uspešno praćenje React Native kursa potrebno je da poznajete:
 - CSS Flexbox (preporučeno)
 - React (preporučeno)
 
-Čak iako niste imali prethodnog iskustva sa React-om, trebalo bi da možete da pratite. Kao dodatni resurs preporučujemo [React Native Express](http://www.reactnativeexpress.com/) kurs.
+Kao dodatni resurs preporučujemo [React Native Express](http://www.reactnativeexpress.com/) kurs.
 
 ## Program kursa
 
